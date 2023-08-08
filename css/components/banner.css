@@ -1,0 +1,10 @@
+.banner {
+  background-image: url(../../images/tech-background.jpg);
+  color: white;
+  padding: 100px 0;
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+
+
+}
